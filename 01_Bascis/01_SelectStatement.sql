@@ -20,7 +20,10 @@ SELECT first_name,
 FROM parks_and_recreation.employee_demographics;
 
 # PEMDAS -- order operation 
--- Parenthesis, Exponent, Multiplication, Division, Addition, Subtract
+-- Parenthesis, Exponent, Multiplication, Division, Addition, Subtract.
 
 SELECT  distinct  first_name, gender
 FROM parks_and_recreation.employee_demographics;
+
+SELECT first_name,last_name
+from employee_salary;
