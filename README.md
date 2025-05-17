@@ -1,6 +1,6 @@
 # SQL Practice Series: Beginner to Advanced (MySQL)
 
-SQL practice series, designed to guide you from beginner to advanced SQL concepts using the MySQL RDBMS (Relational Database Management System).
+SQL practice series, designed to guide you from beginner to advanced SQL concepts using the MySQL, PostgreSQL RDBMS (Relational Database Management System).
 
 ## About This Series
 
